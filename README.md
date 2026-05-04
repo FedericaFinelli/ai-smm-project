@@ -20,3 +20,6 @@ Add automation and analytics.
 
 ## Acknowledgments
 Created for Building AI course.
+
+## Useful links 
+Addditional note added by external for trials
